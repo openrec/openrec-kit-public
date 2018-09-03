@@ -7,7 +7,8 @@
 
 # ダウンロード方法
 
-Windowsをお使いの方は、OPENREC_KIT.exeファイルをダウンロードします。ダウンロード後、このOPENREC_KIT.exeファイルをダブルクリックで実行し、インストールを行います。
+Windowsをお使いの方は、OPENREC_KIT.exeファイルをダウンロードします。
+ダウンロード後、このOPENREC_KIT.exeファイルをダブルクリックで実行し、インストールを行います。
 
 詳細は[こちらの記事](https://article.openrec.tv/4351)を御覧ください。
 
