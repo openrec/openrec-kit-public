@@ -14,4 +14,4 @@ Windowsをお使いの方は、OPENREC_KIT.exeファイルをダウンロード�
 
 Windows:
 
-- [OPENREC_KIT.exe](https://github.com/openrec/openrec-kit-public/raw/master/openrec_kit.exe)
+- [OPENREC_KIT.exe](https://github.com/openrec/openrec-kit-public/releases/latest/download/openrec_kit.exe)
